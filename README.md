@@ -1,8 +1,6 @@
 
-# Weather Info for Pincode 
- A Spring Boot Application with REST API for weather information for a particular day and a
-Pincode using OpenWeather API (https://openweathermap.org/api/history-api-timestamp) and
-OpenWeather GeoCoding API (https://openweathermap.org/api/geocoding-api).
+# Weather Info using Pincode and Date 
+ Our Spring Boot application provides weather information based on a specific date and pincode using the OpenWeather API for historical weather data (https://openweathermap.org/api/history-api-timestamp) and the OpenWeather GeoCoding API for location data (https://openweathermap.org/api/geocoding-api).
 
 
 ### Request
